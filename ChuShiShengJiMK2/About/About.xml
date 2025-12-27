@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>初始装备升级mk2</Name>
+  <Author>Rick</Author>
+  <Version>0.1</Version>
+  <Description>
+    该mod将初始装备升级为mk2版本，包括初始电池、初始工具和初始背包。
+  </Description>
+  <Tags>
+    <Tag>Starting Conditions</Tag>
+  </Tags>
+</ModMetadata>
